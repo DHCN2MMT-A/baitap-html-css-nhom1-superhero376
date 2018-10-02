@@ -12,14 +12,14 @@ video{
 
 #menu ul{
 		list-style-type: none;
-			text-decoration: none;
+			
 			display: block;
 
 			
 	}
 	#menu ul a{
 		background: cyan;
-		
+		text-decoration: none;
 		width: 200px;
 		height: 50px;
 		float: left;
